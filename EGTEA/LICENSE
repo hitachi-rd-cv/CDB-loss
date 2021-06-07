@@ -29,7 +29,11 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+<<<<<<< HEAD
 Portions of the source code are from the https://github.com/okankop/vidaug repo and are licensed under
+=======
+Portions of the source code are from the classifier-balancing project and are licensed under
+>>>>>>> 5fb202a7b9ead5c69fcf597f4f858196677b05f5
 the following terms:
 
 MIT License
@@ -54,7 +58,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+<<<<<<< HEAD
 Portions of the source code are from the https://github.com/kenshohara/3D-ResNets-PyTorch repo and are licensed under
+=======
+Portions of the source code are from the classifier-balancing project and are licensed under
+>>>>>>> 5fb202a7b9ead5c69fcf597f4f858196677b05f5
 the following terms:
 
 

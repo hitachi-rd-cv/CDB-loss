@@ -29,7 +29,11 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+<<<<<<< HEAD
 Portions of the source code are licensed under
+=======
+Portions of the source code are from the classifier-balancing project and are licensed under
+>>>>>>> 5fb202a7b9ead5c69fcf597f4f858196677b05f5
 the following terms:
 
 BSD 3-Clause License
