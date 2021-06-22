@@ -28,5 +28,5 @@ class createCIFAR(Dataset):
         return image, label
     def __len__(self):
         return len(self.labels)
-    def _get_label(self, item):
-        return self.labels[item % len(self.labels)]
+    #def _get_label(self, item):
+    #    return self.labels[item % len(self.labels)]
