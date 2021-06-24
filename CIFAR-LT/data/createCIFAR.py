@@ -21,7 +21,6 @@ class createCIFAR(Dataset):
     def __getitem__(self, item):
         image = self.mat[item % len(self.labels)]
         label = self.labels[item % len(self.labels)]
-        #image = np.reshape(image, (224, 224))
         image = np.transpose(image,(1,2,0))
         image = Image.fromarray(np.uint8(image))
         image = self.transforms(image).float()
